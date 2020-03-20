@@ -3,6 +3,7 @@ Drug Trial analysis
 
 
 
+My objective was to determine which drug was most effective in treating mice, and display the data for others to visualize. 
 I analyzed clinical trial data of four drug treatments on mice, and created scatter plots and graphs to display the data. I also included some written observable trends based on the visualizations.
 
 
