@@ -28,6 +28,6 @@ Capomulin was shown as the most superior drug treatment of the four, regardless 
 
 Drug analysis graph
 
-![Drug graph](Drug-trial-analysis/drug graph.png)
+![drug graph](drug graph.png)
 
 
