@@ -1,5 +1,5 @@
 
-Drug Trial analysis
+# Drug Trial analysis
 
 
 
@@ -27,6 +27,6 @@ Capomulin was shown as the most superior drug treatment of the four, regardless 
 
 
 # Drug analysis graph
-![drug graph](drug graph.png)
+![graph](drug graph.png)
 
 
