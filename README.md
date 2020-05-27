@@ -26,7 +26,7 @@ The scatter plots and bar graph i created are as follows:
 Capomulin was shown as the most superior drug treatment of the four, regardless of the angle of data chosen to analyze. 
 
 
-# Drug analysis graph
+# Tumor response to treatments
 ![graph](https://github.com/jacarroll232/Drug-trial-analysis/blob/master/drug%20graph.png)
 
 
