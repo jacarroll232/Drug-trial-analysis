@@ -29,4 +29,4 @@ The scatter plots and bar graph i created are as follows:
 ![graph](https://github.com/jacarroll232/Drug-trial-analysis/blob/master/drug%20graph.png)
 
 
-Capomulin was shown as the most superior drug treatment of the four, regardless of the angle of data chosen to analyze. 
+Capomulin was shown to be the most superior drug treatment of the four, regardless of the angle of data chosen to analyze. 
